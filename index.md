@@ -7,3 +7,10 @@
 ```
 df  = pd.read_csv('test.csv')
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [ ] let's tr
